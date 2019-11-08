@@ -1,0 +1,5 @@
+/Users/andreaskullberg/Projects/Labb2/Labb2/bin/Debug/Labb2.exe
+/Users/andreaskullberg/Projects/Labb2/Labb2/bin/Debug/Labb2.pdb
+/Users/andreaskullberg/Projects/Labb2/Labb2/obj/Debug/Labb2.csprojAssemblyReference.cache
+/Users/andreaskullberg/Projects/Labb2/Labb2/obj/Debug/Labb2.exe
+/Users/andreaskullberg/Projects/Labb2/Labb2/obj/Debug/Labb2.pdb

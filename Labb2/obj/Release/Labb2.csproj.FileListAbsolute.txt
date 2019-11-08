@@ -1,0 +1,2 @@
+/Users/andreaskullberg/Projects/Labb2/Labb2/bin/Release/Labb2.exe
+/Users/andreaskullberg/Projects/Labb2/Labb2/obj/Release/Labb2.exe
